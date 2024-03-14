@@ -12,6 +12,7 @@ fun main() {
         println(number)
     }
     println("Total number of even numbers: $evenNumberCounter")
+
 //    for (i in 1..10) {
 //        println(i)
 //    }
